@@ -34,7 +34,7 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anushaAnu333)
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anushaAnu333)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drajnarayana&layout=compact&theme=vue&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushaAnu333&layout=compact&theme=vue&hide_border=true" />
 
 
  </div>
