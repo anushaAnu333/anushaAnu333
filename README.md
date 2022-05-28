@@ -12,7 +12,7 @@
  </h3>
 </div>
 
-<h3 align="center" text-decoration="none"><a href="https://anushasurendran.vercel.app/" target="_blank" rel="noopener noreferrer" >
+<h3 align="center" text-decoration="none"><a href="https://react-olive-chi.vercel.app/" target="_blank" rel="noopener noreferrer" >
     Visit my website
 </a></h3>
 
