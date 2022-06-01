@@ -40,7 +40,6 @@
  </div>
 
 
-<h2> Connect with me  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
 
 
 <a href="https://https://www.linkedin.com/in/anusha-surendran-324642225?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYm4TiRKaSXm%2B6wMhIJAtxQ%3D%3D/"><img  height="50px" width="50px" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
