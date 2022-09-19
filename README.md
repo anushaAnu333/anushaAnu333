@@ -16,7 +16,12 @@
 <h3 align="center" text-decoration="none"><a href="https://portfolio-main-iriep2ony-anushaanu333.vercel.app/" target="_blank" rel="noopener noreferrer" >
     Visit my website
 </a></h3>
-
+<h2 align="center">
+    <abc>
+     <br>
+       <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  width="500">
+    </abc>
+   </h2> 
 <!-- - 🎯 Full Stack Web Developer -->
 
 
