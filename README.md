@@ -9,7 +9,7 @@
 
 <div align="center" size='20px'>
  <h3>
- An passionate full-stack developer with a specialization in MERN stack. Self motivated and eager to work in tech-based companies. Love to learn new skills and contribute to the community.
+ An passionate full-stack developer with a specialization in MERN Stack. Self motivated and eager to work in tech-based companies. Love to learn new skills and contribute to the community.
  </h3>
 </div>
 
