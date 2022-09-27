@@ -22,7 +22,7 @@
        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  width="500">
     </abc>
    </h2> 
-<!-- - 🎯 Full Stack Web Developer -->
+<!-- - 🎯 Full Stack Web Developer- -->
 
 
 <h3 align="left">Connect with me 🤝:</h3>
