@@ -22,7 +22,7 @@
        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  width="500">
     </abc>
    </h2> 
-<!-- - 🎯 Full Stack Web Developer- -->
+<!-- - 🎯 Full Stack W
 <h3 align="left">
 📫 How to reach me <a href="#">anushasurendran333kp@gmail.com</a>
 </h3>
