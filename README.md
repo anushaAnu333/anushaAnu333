@@ -51,8 +51,6 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anushaAnu333)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushaAnu333&layout=compact&theme=vue&hide_border=true" />
-
-
  </div>
 
 
