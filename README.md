@@ -1,6 +1,6 @@
 
   
-<h1 align="center">Hi, I'm Anusha Surendran</h1>
+<h1 align="center">Hi, I'm Anusha Surendran </h1>
  <img src="https://komarev.com/ghpvc/?username=anushaAnu333&label=Profile%20views&color=0e75b6&style=flat" alt="madhulp" /> 
 <p align='center'> </h1>
 <p align="center">
