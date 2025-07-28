@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=d25f2c&size=25&center=true&vCenter=true&lines=Full-Stack+Web+Developer;MERN+Stack+Specialist;React+Native+Enthusiast;Backend+Engineer+%7C+Fastify+%7C+gRPC+%7C+Kafka;Frontend+UI+Designer+%7C+Responsive+Web+Apps" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=d25f2c&size=25&center=true&vCenter=true&lines=Hi,+I'm+Anusha+Surendran;Full-Stack+Web+Developer;React+Native+App+Builder;Backend+with+Node,+gRPC,+Kafka;Frontend+with+React+%26+UI+Design" alt="Typing SVG" />
   </a>
 </p>
 
