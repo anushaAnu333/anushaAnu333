@@ -79,11 +79,6 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnB5Z29sNHpkdmF5N2E4ajg4bDk0bG1sNHFxMzd0OWh0bnZvcjlvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="400" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=anushaAnu333&bg_color=ffffff&color=000000&line=d25f2c&point=ff9933&area=true&hide_border=true" />
-</p>
