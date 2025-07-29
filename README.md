@@ -23,7 +23,7 @@
 - 🤝 Open to collaboration on innovative projects and open-source
 
 <h3 align="center">
-  <a href="https://anushaanu333.github.io/" target="_blank" rel="noopener noreferrer">
+  <a href="https://portfolio-latest-rosy.vercel.app/" target="_blank" rel="noopener noreferrer">
     🌐 Visit My Portfolio
   </a>
 </h3>
