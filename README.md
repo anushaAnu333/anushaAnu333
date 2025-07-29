@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Anusha!
+# 👋 Hello, I'm Anusha Surendran!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+%26+Growing" alt="Typing SVG" />
@@ -163,18 +163,6 @@ I'm a passionate **Full Stack Developer** with a love for creating innovative so
 
 ---
 
-## 🌟 Recent Activity
-
-<!--START_SECTION:activity-->
-
-1. 🚀 **Started working on** [Project Name] - A new exciting project
-2. 🎉 **Merged PR** in [Repository Name] - Added new feature
-3. 📝 **Created issue** in [Repository Name] - Bug report
-4. ⭐ **Starred** [Repository Name] - Amazing project!
-5. 🔧 **Fixed bug** in [Repository Name] - Performance improvement
-<!--END_SECTION:activity-->
-
----
 
 ## 📈 Contribution Graph
 
@@ -211,22 +199,9 @@ I'm a passionate **Full Stack Developer** with a love for creating innovative so
 
 ---
 
-## 💡 Fun Facts
 
-- 🎯 **Currently Learning:** Advanced React Patterns & System Design
-- 🌍 **Languages:** English, [Your Native Language]
-- 🎮 **Hobbies:** Coding, Reading Tech Blogs, Gaming, Traveling
-- ☕ **Coffee Count:** ∞ (Never enough!)
 
----
 
-## 📝 Latest Blog Posts
-
-- [Building Scalable Web Applications](https://your-blog.com/post1)
-- [React Performance Optimization Tips](https://your-blog.com/post2)
-- [Getting Started with Open Source](https://your-blog.com/post3)
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=anushaAnu333&style=flat-square&color=blue" alt="Profile Views" />
