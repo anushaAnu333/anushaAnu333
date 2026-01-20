@@ -134,10 +134,7 @@ I'm a passionate **Full Stack Developer** with a love for creating innovative so
 </div>
 
 
-- **Features:** Workout tracking, progress analytics, social features
-- **Status:** 🟢 Live
 
----
 
 
 ## 📈 Contribution Graph
