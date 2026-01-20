@@ -133,31 +133,7 @@ I'm a passionate **Full Stack Developer** with a love for creating innovative so
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushaAnu333&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
----
 
-## 🏆 Featured Projects
-
-### 🚀 Project 1: E-Commerce Platform
-
-> A full-stack e-commerce solution built with React, Node.js, and MongoDB
-
-- **Tech Stack:** React, Node.js, Express, MongoDB, Stripe
-- **Features:** User authentication, product management, payment integration
-- **Status:** 🟢 Live
-
-### 🎨 Project 2: Task Management App
-
-> A collaborative task management application with real-time updates
-
-- **Tech Stack:** Vue.js, Socket.io, PostgreSQL
-- **Features:** Real-time collaboration, drag-and-drop interface
-- **Status:** 🟡 In Development
-
-### 📱 Project 3: Mobile Fitness Tracker
-
-> Cross-platform mobile app for fitness tracking and goal setting
-
-- **Tech Stack:** React Native, Firebase, Redux
 - **Features:** Workout tracking, progress analytics, social features
 - **Status:** 🟢 Live
 
