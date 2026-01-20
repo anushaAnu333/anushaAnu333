@@ -143,15 +143,6 @@ I'm a passionate **Full Stack Developer** with a love for creating innovative so
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anushaAnu333&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </div>
 
----
-
-## 🏅 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anushaAnu333&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
 
 ## 📫 Let's Connect!
 
